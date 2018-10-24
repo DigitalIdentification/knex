@@ -104,7 +104,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/tgriesser/knex.git"
+    "url": "git://github.com/DigitalIdentification/knex.git"
+  },
+  "publishConfig": {
+    "private": true,
+    "registry": "https://packagecloud.io/digitalidentification/npm/npm/"
   },
   "homepage": "https://knexjs.org",
   "keywords": [
